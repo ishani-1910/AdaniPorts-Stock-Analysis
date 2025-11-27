@@ -17,7 +17,7 @@ The dataset contains historical stock prices of Adani Ports Limited.
 Columns include: Date, Open, High, Low, Close, Volume, etc.
 
 The dataset is publicly available and free for educational purposes.
-You can download the dataset from here - 
+You can download the dataset from here - https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 
 Libraries Used
 
