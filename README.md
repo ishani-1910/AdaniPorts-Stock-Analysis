@@ -1,13 +1,43 @@
-# NIFTY_ANALYSIS
-Exploratory and Predictive Study of NIFTY Market Trends Using Time-Series Visualization  Market Trend Identification and Signal Generation on NIFTY Index Using SMA-Based Indicator
+# Adani Ports Stock Analysis
 
-This project presents a data-driven analysis of the NIFTY stock market index using Python and Jupyter Notebook.
-The workflow includes:
+Overview
 
-1.Importing & cleaning the dataset
-2.Exploratory data analysis on price and volume trends
-3.Moving Average indicators (20-day, 50-day, 200-day)
-4.Trend visualization using line plots & heatmaps
-5.Golden Cross & Death Cross detection for trend reversal signals
+This project is a data analysis of Adani Ports Limited stock using historical stock market data. It explores the stock’s performance, trends, and patterns over time, helping users understand its price movement and trading behavior. The analysis is conducted in a Jupyter Notebook, making it interactive and easy to follow.
 
-The goal of this project is to transform raw stock market data into meaningful insights and highlight how quantitative analysis can support investment decision-making. The notebook provides reproducible code, interpretive visualizations, and a conclusive summary of market trends and trading signals.
+Features
+Historical stock price visualization
+Trend analysis (moving averages, highs & lows)
+Daily returns and volatility analysis
+Insights on stock performance over time
+Easy-to-understand visualizations using Python libraries
+
+Dataset
+
+The dataset contains historical stock prices of Adani Ports Limited.
+Columns include: Date, Open, High, Low, Close, Volume, etc.
+
+The dataset is publicly available and free for educational purposes.
+You can download the dataset from here - 
+
+Libraries Used
+
+pandas – for data manipulation
+numpy – for numerical calculations
+matplotlib & seaborn – for data visualization
+yfinance (optional) – for fetching stock data
+
+How to Use
+
+Clone the repository:
+git clone <repository-url>
+Open the Jupyter Notebook:
+jupyter notebook AdaniPorts_Stock_Analysis.ipynb
+Run the cells to see the analysis and visualizations.
+
+License
+This project is licensed under the MIT License – feel free to use, modify, and share the code.
+
+Future Work
+Extend the analysis to other stocks or full Nifty 50.
+Add predictive models using machine learning.
+Explore technical indicators for better trading insights.
