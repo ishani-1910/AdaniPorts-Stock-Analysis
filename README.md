@@ -28,8 +28,8 @@ yfinance (optional) – for fetching stock data
 
 How to Use
 
-Clone the repository:
-git clone <repository-url>
+Clone the repository
+git clone <https://github.com/ishani-1910/AdaniPorts-Stock-Analysis/tree/main>
 Open the Jupyter Notebook:
 jupyter notebook AdaniPorts_Stock_Analysis.ipynb
 Run the cells to see the analysis and visualizations.
@@ -38,6 +38,7 @@ License
 This project is licensed under the MIT License – feel free to use, modify, and share the code.
 
 Future Work
+
 Extend the analysis to other stocks or full Nifty 50.
 Add predictive models using machine learning.
 Explore technical indicators for better trading insights.
